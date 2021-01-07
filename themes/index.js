@@ -262,6 +262,12 @@ const themes = {
     icon_color: "a64833",
     text_color: "d9c8a9",
     bg_color: "402b23"
+  },
+  elvis: {
+    title_color: "ffde59",
+    icon_color: "00c2cb",
+    text_color: "ffffff",
+    bg_color: "37393d"
   }
 };
 
